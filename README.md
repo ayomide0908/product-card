@@ -6,7 +6,7 @@ Features a clean design, mobile-first responsive layout, and hover effects.
 ---
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://yourusername.github.io/product-card/)
+[View on GitHub Pages](https://ayomide0908.github.io/product-card/)
 
 ---
 
